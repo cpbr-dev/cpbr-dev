@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 Hey ! I'm Nael, a Software Engineer passionate about all things tech, especially video game development.<br><br>Currently living in France.
 
 Want to get in touch ? Send me an email @ [contact-me@cpbr.dev](mailto:contact-me@cpbr.dev) 
